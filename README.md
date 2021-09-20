@@ -1,32 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to My Home Page
 
-You can use the [editor on GitHub](https://github.com/macdonaldlowe/macdonaldlowe.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Ever since I was a kid I knew I loved data, I thought data was the ultimate truth. Today I'm living that truth out interacting with data on every level from harvesting to making real research and business decisions.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### A Data Professional
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MacDonald Lowe has experience in multiple development environments making the big numbers make sense.
 
 ```markdown
 Syntax highlighted code block
 
-# Change for Header 1 
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Data Development Intern at Boise Cascase
+- Building ETL pipelines
+- Visualizing company data with Power BI
+## Undergraduate Researcher at ADAPT Lab
+- Compilers Research
+- Advanced usage of graphviz to visualize scientific applications
+### Developer for the Boise School District
+- Built custom accounting system
+- Coordinated across teams to meet security regulations
 
 ### Jekyll Themes
 
